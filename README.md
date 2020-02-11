@@ -24,6 +24,7 @@ The purpose of this lesson is to learn the basics of a distributed version contr
 1. Run the code. If you need help, see *Running the code* below.
 
 ## Task 4: Make changes, commit and push them to Github
+Yolo. Futis on kivaa
 
 1. Modify *src/index.jsx*
 1. Check what files have been changed (`git status`)
